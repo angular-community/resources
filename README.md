@@ -49,8 +49,8 @@ A crowd-sourced curated list of Angular resources.
 
 ### TypeScript
 
-[TypeScript Website](https://www.typescriptlang.org/)
-[TypeScript Playground](https://www.typescriptlang.org/play) - The Playground lets you write TypeScript or JavaScript online in a safe and sharable way.
+- [TypeScript Website](https://www.typescriptlang.org/)
+- [TypeScript Playground](https://www.typescriptlang.org/play) - The Playground lets you write TypeScript or JavaScript online in a safe and sharable way.
 
 <h5 id="ts-blogs">Blogs/Articles</h5>
 
@@ -62,7 +62,7 @@ A crowd-sourced curated list of Angular resources.
 
 ### RxJS
 
-[RxJS Website](https://rxjs.dev/)
+- [RxJS Website](https://rxjs.dev/)
 
 <h5 id="rxjs-blogs">Blogs/Articles</h5>
 
@@ -78,4 +78,4 @@ Resources for some of the most used libraries in the Angular ecosystem
 
 ##### NgRx
 
-[NgRx Website](https://ngrx.io/) - Reactive State for Angular
+- [NgRx Website](https://ngrx.io/) - Reactive State for Angular
