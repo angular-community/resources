@@ -27,11 +27,11 @@ A crowd-sourced curated list of Angular resources.
 
 ### Official Angular resources
 
-[Angular Website.](https://angular.io/) - The web development framework for building the future.
-[Angular Blog](https://blog.angular.io/) - News and Tips from the Angular Team.
-[Angular Github](https://github.com/angular) - Angular is developed in public, take a look at the Angular repositories.
-[Angular Twitter](https://twitter.com/angular) - Follow @angular on twitter.
-[Angular Youtube](https://www.youtube.com/@Angular) - Videos and Shorts from the Angular Team.
+- [Angular Website.](https://angular.io/) - The web development framework for building the future.
+- [Angular Blog](https://blog.angular.io/) - News and Tips from the Angular Team.
+- [Angular Github](https://github.com/angular) - Angular is developed in public, take a look at the Angular repositories.
+- [Angular Twitter](https://twitter.com/angular) - Follow @angular on twitter.
+- [Angular Youtube](https://www.youtube.com/@Angular) - Videos and Shorts from the Angular Team.
 
 ### Beginners Journey
 
