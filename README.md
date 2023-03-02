@@ -1,8 +1,8 @@
-#Resources
+# Resources
 
 A crowd-sourced curated list of Angular resources.
 
-##Table of Contents
+## Table of Contents
 
 - [Official Angular resources](#official-angular-resources)
 - [Beginners Journey](#beginners-journey)
@@ -25,7 +25,7 @@ A crowd-sourced curated list of Angular resources.
 - [Libraries](#libraries)
   - [NgRx](#ngrx)
 
-###Official Angular resources
+### Official Angular resources
 
 [Angular Website.](https://angular.io/) - The web development framework for building the future.
 [Angular Blog](https://blog.angular.io/) - News and Tips from the Angular Team.
@@ -33,9 +33,9 @@ A crowd-sourced curated list of Angular resources.
 [Angular Twitter](https://twitter.com/angular) - Follow @angular on twitter.
 [Angular Youtube](https://www.youtube.com/@Angular) - Videos and Shorts from the Angular Team.
 
-###Beginners Journey
+### Beginners Journey
 
-###Angular
+### Angular
 
 <h5 id="angular-blogs">Blogs/Articles</h5>
 
@@ -47,7 +47,7 @@ A crowd-sourced curated list of Angular resources.
 
 <h5 id="angular-videos">Videos</h5>
 
-###TypeScript
+### TypeScript
 
 [TypeScript Website](https://www.typescriptlang.org/)
 [TypeScript Playground](https://www.typescriptlang.org/play) - The Playground lets you write TypeScript or JavaScript online in a safe and sharable way.
@@ -60,7 +60,7 @@ A crowd-sourced curated list of Angular resources.
 
 <h5 id="ts-videos">Videos</h5>
 
-###RxJS
+### RxJS
 
 [RxJS Website](https://rxjs.dev/)
 
@@ -72,9 +72,10 @@ A crowd-sourced curated list of Angular resources.
 
 <h5 id="rxjs-videos">Videos</h5>
 
-###Libraries
+### Libraries
 
 Resources for some of the most used libraries in the Angular ecosystem
 
-#####NgRx
+##### NgRx
+
 [NgRx Website](https://ngrx.io/) - Reactive State for Angular
