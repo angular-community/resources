@@ -37,40 +37,40 @@ A crowd-sourced curated list of Angular resources.
 
 ### Angular
 
-<h5 id="angular-blogs">Blogs/Articles</h5>
+<h4 id="angular-blogs">Blogs/Articles</h4>
 
-<h5 id="angular-books">Books</h5>
+<h4 id="angular-books">Books</h4>
 
-<h5 id="angular-courses">Courses</h5>
+<h4 id="angular-courses">Courses</h4>
 
-<h5 id="angular-example-applications">Example Applications</h5>
+<h4 id="angular-example-applications">Example Applications</h4>
 
-<h5 id="angular-videos">Videos</h5>
+<h4 id="angular-videos">Videos</h4>
 
 ### TypeScript
 
 - [TypeScript Website](https://www.typescriptlang.org/)
 - [TypeScript Playground](https://www.typescriptlang.org/play) - The Playground lets you write TypeScript or JavaScript online in a safe and sharable way.
 
-<h5 id="ts-blogs">Blogs/Articles</h5>
+<h4 id="ts-blogs">Blogs/Articles</h4>
 
-<h5 id="ts-books">Books</h5>
+<h4 id="ts-books">Books</h4>
 
-<h5 id="ts-courses">Courses</h5>
+<h4 id="ts-courses">Courses</h4>
 
-<h5 id="ts-videos">Videos</h5>
+<h4 id="ts-videos">Videos</h4>
 
 ### RxJS
 
 - [RxJS Website](https://rxjs.dev/)
 
-<h5 id="rxjs-blogs">Blogs/Articles</h5>
+<h4 id="rxjs-blogs">Blogs/Articles</h4>
 
-<h5 id="rxjs-books">Books</h5>
+<h4 id="rxjs-books">Books</h4>
 
-<h5 id="rxjs-courses">Courses</h5>
+<h4 id="rxjs-courses">Courses</h4>
 
-<h5 id="rxjs-videos">Videos</h5>
+<h4 id="rxjs-videos">Videos</h4>
 
 ### Libraries
 
