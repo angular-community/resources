@@ -107,4 +107,4 @@ Resources for some of the most used libraries in the Angular ecosystem
 ##### NgRx
 
 - [NgRx Documentation](https://ngrx.io/) - Official NgRx documentation
-- [NgRx fundamentals](https://this-is-angular.github.io/ngrx-essentials-course/) - An Open Learning course by This is Learning.
+- [NgRx Fundamentals](https://this-is-angular.github.io/ngrx-essentials-course/) - An Open Learning course by This is Learning.
