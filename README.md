@@ -51,7 +51,7 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 <h4 id="angular-courses">Courses</h4>
 
 - [Elite Ionic](https://eliteionic.com/) (PAID :dollar:) - Learn to build next level native web aplications with Angular and Ionic
-- [Ultimate Courses - Angular](https://ultimatecourses.com/courses/angular) - (PAID :dollar:) Everything you need to become an Angular expert.
+- [Ultimate Courses - Angular Basics](https://ultimatecourses.com/learn/angular-basics) - (PAID :dollar:) Everything you need to become an Angular expert.
 
 <h4 id="angular-example-applications">Example Applications</h4>
 
