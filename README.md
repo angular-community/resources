@@ -57,7 +57,7 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 - [Realworld sample applications](https://realworld.io/) - Building a medium clone with different frontend and backend technologies.
   - [Angular](https://github.com/khaledosman/angular-realworld-example-app) - A medium clone build with Angular.
   - [Angular + Nx + NgRx](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - A medium clone build with Angular, Nx and NgRx.
-  - [Angular Standalone Components + NgRx Component Store + Unit Testing](https://github.com/nartc/ng-conduit) - A medium clone build with Angular Standalone components andNgRx component store, with unit testing included.
+  - [Angular Standalone Components + NgRx Component Store + Unit Testing](https://github.com/nartc/ng-conduit) - A medium clone build with Angular Standalone components and NgRx component store, with unit testing included.
 
 <h4 id="angular-videos">Videos</h4>
 
@@ -71,7 +71,7 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 
 <h4 id="ts-blogs">Blogs/Articles</h4>
 
-- [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) - Explanation sto common issues people run into when starting to learn TypeScript.
+- [Typescript Deep Dive](https://basarat.gitbook.io/typescript/) - Explanations to common issues people run into when starting to learn TypeScript.
 
 <h4 id="ts-books">Books</h4>
 
