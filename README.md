@@ -42,15 +42,16 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 <h4 id="angular-blogs">Blogs/Articles</h4>
 
 - [Ninja squad blog](https://blog.ninja-squad.com/tags.html#Angular-ref) - Stay up to date with new features in Angular releases.
+- [This is Angular - Dev.to](https://dev.to/this-is-angular) - Free, open and honest Angular education on the dev.to platform.
 
 <h4 id="angular-books">Books</h4>
 
-- [Become a ninja with Angular](https://books.ninja-squad.com/angular) - (PAID / pay what you want) This ebook helps you get the philosophy of Angular, the new tools, and each part of the framework in a pragmatic way. Always kept up-to-date with the latest Angular release!
+- [Become a ninja with Angular](https://books.ninja-squad.com/angular) - (PAID :dollar: / pay what you want) This ebook helps you get the philosophy of Angular, the new tools, and each part of the framework in a pragmatic way. Always kept up-to-date with the latest Angular release!
 
 <h4 id="angular-courses">Courses</h4>
 
-- [Elite Ionic](https://eliteionic.com/) (PAID) - Learn to build next level native web aplications with Angular and Ionic
-- [Ultimate Courses - Angular](https://ultimatecourses.com/courses/angular) - (PAID) Everything you need to become an Angular expert.
+- [Elite Ionic](https://eliteionic.com/) (PAID :dollar:) - Learn to build next level native web aplications with Angular and Ionic
+- [Ultimate Courses - Angular](https://ultimatecourses.com/courses/angular) - (PAID :dollar:) Everything you need to become an Angular expert.
 
 <h4 id="angular-example-applications">Example Applications</h4>
 
@@ -75,12 +76,12 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 
 <h4 id="ts-books">Books</h4>
 
-- [TypeScript in 50 lessons](https://typescript-book.com/) - (PAID) Everything you need to know about TypeScript in 50 short lessons.
+- [TypeScript in 50 lessons](https://typescript-book.com/) - (PAID :dollar:) Everything you need to know about TypeScript in 50 short lessons.
 
 <h4 id="ts-courses">Courses</h4>
 
-- [Total TypeScript beginners tutorial](https://www.totaltypescript.com/tutorials/beginners-typescript) - (FREE) Get hands-on interactive TypeScript practice and learn foundational knowledge and skills.
-- [Ultimate Courses - TypeScript](https://ultimatecourses.com/courses/typescript) - (PAID) Everything you need to become a TypeScript expert.
+- [Total TypeScript beginners tutorial](https://www.totaltypescript.com/tutorials/beginners-typescript) - Get hands-on interactive TypeScript practice and learn foundational knowledge and skills.
+- [Ultimate Courses - TypeScript](https://ultimatecourses.com/courses/typescript) - (PAID :dollar:) Everything you need to become a TypeScript expert.
 
 <h4 id="ts-videos">Videos</h4>
 
@@ -94,7 +95,8 @@ We recommend beginners to start with the [Tour of Heroes tutorial](https://angul
 
 <h4 id="rxjs-courses">Courses</h4>
 
-- [Ultimate Courses - RxJS](https://ultimatecourses.com/courses/rxjs) (PAID) Everything you need to become a RxJS expert.
+- [RxJS Fundamentals](https://this-is-learning.github.io/rxjs-fundamentals-course/) - An Open Learning course by This is Learning.
+- [Ultimate Courses - RxJS](https://ultimatecourses.com/courses/rxjs) (PAID :dollar:) Everything you need to become a RxJS expert.
 
 <h4 id="rxjs-videos">Videos</h4>
 
@@ -104,4 +106,5 @@ Resources for some of the most used libraries in the Angular ecosystem
 
 ##### NgRx
 
-- [NgRx Website](https://ngrx.io/) - Reactive State for Angular
+- [NgRx Documentation](https://ngrx.io/) - Official NgRx documentation
+- [NgRx fundamentals](https://this-is-angular.github.io/ngrx-essentials-course/) - An Open Learning course by This is Learning.
